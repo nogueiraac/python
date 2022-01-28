@@ -20,4 +20,4 @@ Data Structure
 - [x] Challenge 15
 - [x] Challenge 16
 - [ ] Challenge 17    
-- [ ] Challenge 18
+- [x] Challenge 18
